@@ -4,5 +4,5 @@ module.exports = zztest;
 
 function zztest() {
     // TODO
-    console.log(1)
+    console.log(2)
 }
