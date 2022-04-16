@@ -1,11 +1,11 @@
-# `module-1`
+# `zztest`
 
 > TODO: description
 
 ## Usage
 
 ```
-const module1 = require('module-1');
+const zztest = require('zztest');
 
 // TODO: DEMONSTRATE API
 ```
