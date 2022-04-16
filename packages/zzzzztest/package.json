@@ -1,6 +1,6 @@
 {
-  "name": "zzzzztest",
-  "version": "0.0.6",
+  "name": "@zpwingame/zzzzztest",
+  "version": "0.0.1",
   "description": "> TODO: description",
   "author": "zpwingame <zhaopeng.bro@bytedance.com>",
   "homepage": "https://github.com/zpwingame/learn-demo#readme",
@@ -22,5 +22,6 @@
   },
   "bugs": {
     "url": "https://github.com/zpwingame/learn-demo/issues"
-  }
+  },
+  "gitHead": "a31c64f3e2f5bfd905f2f5d3ef2ff1c3bb843290"
 }
