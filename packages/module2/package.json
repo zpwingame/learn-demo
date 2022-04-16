@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zpwingame/learn-demo.git"
@@ -25,5 +28,6 @@
   },
   "dependencies": {
     "@zpwingame/zzzzztest": "^0.0.9"
-  }
+  },
+  "gitHead": "867bf96717bb78a5c2eec367b3c68f4b3116a219"
 }
