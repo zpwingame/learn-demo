@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/zpwingame/learn-demo.git"
@@ -23,5 +26,5 @@
   "bugs": {
     "url": "https://github.com/zpwingame/learn-demo/issues"
   },
-  "gitHead": "a31c64f3e2f5bfd905f2f5d3ef2ff1c3bb843290"
+  "gitHead": "94ea56cd9c7c74abefbdd8d5a9b9a7881db63ebf"
 }
