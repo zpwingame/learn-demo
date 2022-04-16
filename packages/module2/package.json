@@ -1,6 +1,6 @@
 {
   "name": "@zpwingame/zzzzztest2",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "> TODO: description",
   "author": "zpwingame <zhaopeng.bro@bytedance.com>",
   "homepage": "https://github.com/zpwingame/learn-demo#readme",
@@ -27,7 +27,7 @@
     "url": "https://github.com/zpwingame/learn-demo/issues"
   },
   "dependencies": {
-    "@zpwingame/zzzzztest": "^0.0.9"
+    "@zpwingame/zzzzztest": "^0.0.10"
   },
   "gitHead": "867bf96717bb78a5c2eec367b3c68f4b3116a219"
 }
